@@ -4,6 +4,8 @@ I am currently enhancing my skill set with tools like Python,SQL and data visual
 After working in the accounting field , I discovered a passion for data analysis and the power of big data in transforming business decisions.This sparked my decision to transition into the world of Big data analytics.
 
 My background in accounting has equipped me with a strong understanding of data interpretation,financial forecasting and business strategy,which I now aim to apply in the realm of Big data.
+
+Looking forward to connecting and growing together.
 <!--
 **JanetMulinge/JanetMulinge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
